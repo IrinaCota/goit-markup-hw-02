@@ -37,8 +37,7 @@ li {
     text-decoration: none;
 }
 
-.nav-link:hover, 
-.nav-link:active {
+.nav-link:hover, .nav-link:focus, .nav-link:active {
     color: #404BBF;
 }
 
@@ -113,20 +112,6 @@ li {
 
 .team-page {
     background: #F4F4FD;
-}
-
-.member {
-    background: #FFF;
-}
-
-.photo {
-}
-
-.portfolio-card {
-    background:#FFF;
-}
-
-.portfolio-image {
 }
 
 .footer {
