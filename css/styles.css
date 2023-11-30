@@ -4,9 +4,6 @@ body {
     background: #FFF;
 }
 
-li {
-    display: flex;
-}
 /* Header */
 
 .logo {
@@ -112,6 +109,10 @@ li {
 
 .team-page {
     background: #F4F4FD;
+}
+
+.member {
+    background: #FFF;
 }
 
 .footer {
