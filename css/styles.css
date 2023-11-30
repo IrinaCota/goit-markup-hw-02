@@ -37,7 +37,8 @@ li {
     text-decoration: none;
 }
 
-.nav-link:hover, .nav-link:active, .nav-link:focus {
+.nav-link:hover, 
+.nav-link:active {
     color: #404BBF;
 }
 
@@ -119,7 +120,6 @@ li {
 }
 
 .photo {
-    background: lightgray;
 }
 
 .portfolio-card {
@@ -127,7 +127,6 @@ li {
 }
 
 .portfolio-image {
-    background: lightgray 50% / cover no-repeat;
 }
 
 .footer {
