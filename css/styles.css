@@ -5,7 +5,6 @@ body {
 }
 
 /* Header */
-
 .logo {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
@@ -107,6 +106,7 @@ body {
     letter-spacing: 0.32px;
 }
 
+/*Team*/
 .team-page {
     background: #F4F4FD;
 }
@@ -115,6 +115,7 @@ body {
     background: #FFF;
 }
 
+/*Footer*/
 .footer {
     background: #2E2F42;
 }
