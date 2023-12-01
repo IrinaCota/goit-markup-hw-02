@@ -47,7 +47,7 @@ body {
     text-decoration: none;
 }
 
-.address:hover, address:active, address:focus {
+.address:hover, .address:active, .address:focus {
     color: #404BBF;
 }
 
